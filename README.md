@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vek08/LC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vek08/LC/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3033-modify-the-matrix](https://github.com/vek08/LC/tree/master/3033-modify-the-matrix) |
+| [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vek08/LC/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
