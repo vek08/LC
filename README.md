@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vek08/LC/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vek08/LC/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vek08/LC/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
@@ -54,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
