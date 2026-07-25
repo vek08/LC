@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vek08/LC/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vek08/LC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vek08/LC/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3033-modify-the-matrix](https://github.com/vek08/LC/tree/master/3033-modify-the-matrix) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/vek08/LC/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
