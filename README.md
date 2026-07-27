@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vek08/LC/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vek08/LC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vek08/LC/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3033-modify-the-matrix](https://github.com/vek08/LC/tree/master/3033-modify-the-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
