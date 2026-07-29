@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vek08/LC/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vek08/LC/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vek08/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vek08/LC/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vek08/LC/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vek08/LC/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/vek08/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vek08/LC/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
