@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vek08/LC/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vek08/LC/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vek08/LC/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vek08/LC/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vek08/LC/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
