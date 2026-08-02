@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/vek08/LC/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/vek08/LC/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/vek08/LC/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/vek08/LC/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -113,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 ## Union-Find
 |  |
 | ------- |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/vek08/LC/tree/master/0525-contiguous-array) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
