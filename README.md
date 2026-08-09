@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vek08/LC/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
 | [3033-modify-the-matrix](https://github.com/vek08/LC/tree/master/3033-modify-the-matrix) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vek08/LC/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vek08/LC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vek08/LC/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
 | [3033-modify-the-matrix](https://github.com/vek08/LC/tree/master/3033-modify-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vek08/LC/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/vek08/LC/tree/master/0867-transpose-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vek08/LC/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
 ## String
 |  |
 | ------- |
