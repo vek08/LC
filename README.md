@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vek08/LC/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vek08/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3033-modify-the-matrix](https://github.com/vek08/LC/tree/master/3033-modify-the-matrix) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/vek08/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vek08/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vek08/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vek08/LC/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
