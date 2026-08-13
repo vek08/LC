@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/vek08/LC/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/vek08/LC/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
 | [3794-reverse-string-prefix](https://github.com/vek08/LC/tree/master/3794-reverse-string-prefix) |
 ## Divide and Conquer
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/vek08/LC/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vek08/LC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Pigeonhole Principle
 |  |
