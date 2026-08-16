@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vek08/LC/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/vek08/LC/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/vek08/LC/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vek08/LC/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vek08/LC/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/vek08/LC/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vek08/LC/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vek08/LC/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vek08/LC/tree/master/0237-delete-node-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/vek08/LC/tree/master/0876-middle-of-the-linked-list) |
@@ -208,8 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vek08/LC/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vek08/LC/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vek08/LC/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/vek08/LC/tree/master/0371-sum-of-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vek08/LC/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
