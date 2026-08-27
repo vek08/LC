@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/vek08/LC/tree/master/0371-sum-of-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/vek08/LC/tree/master/0693-binary-number-with-alternating-bits) |
 ## Stack
 |  |
 | ------- |
