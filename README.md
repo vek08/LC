@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/vek08/LC/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vek08/LC/tree/master/0693-binary-number-with-alternating-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/vek08/LC/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
 | ------- |
