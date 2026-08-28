@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vek08/LC/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/vek08/LC/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/vek08/LC/tree/master/0867-transpose-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vek08/LC/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vek08/LC/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/vek08/LC/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/vek08/LC/tree/master/0382-linked-list-random-node) |
+| [0412-fizz-buzz](https://github.com/vek08/LC/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/vek08/LC/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vek08/LC/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/vek08/LC/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/vek08/LC/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/vek08/LC/tree/master/0709-to-lower-case) |
