@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vek08/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vek08/LC/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/vek08/LC/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/vek08/LC/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/vek08/LC/tree/master/0523-continuous-subarray-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vek08/LC/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/vek08/LC/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/vek08/LC/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vek08/LC/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vek08/LC/tree/master/2220-minimum-bit-flips-to-convert-number) |
