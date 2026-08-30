@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vek08/LC/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/vek08/LC/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/vek08/LC/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/vek08/LC/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/vek08/LC/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/vek08/LC/tree/master/0382-linked-list-random-node) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vek08/LC/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/vek08/LC/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vek08/LC/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/vek08/LC/tree/master/0260-single-number-iii) |
