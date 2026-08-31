@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vek08/LC/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vek08/LC/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/vek08/LC/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vek08/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vek08/LC/tree/master/0136-single-number) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vek08/LC/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/vek08/LC/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vek08/LC/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vek08/LC/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/vek08/LC/tree/master/0260-single-number-iii) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vek08/LC/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vek08/LC/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vek08/LC/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
