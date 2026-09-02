@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vek08/LC/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/vek08/LC/tree/master/0766-toeplitz-matrix) |
+| [0860-lemonade-change](https://github.com/vek08/LC/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/vek08/LC/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/vek08/LC/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
