@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vek08/LC/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vek08/LC/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vek08/LC/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/vek08/LC/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vek08/LC/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vek08/LC/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vek08/LC/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/vek08/LC/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vek08/LC/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vek08/LC/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
