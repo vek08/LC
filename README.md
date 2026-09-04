@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/vek08/LC/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vek08/LC/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vek08/LC/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/vek08/LC/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vek08/LC/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vek08/LC/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vek08/LC/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/vek08/LC/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
