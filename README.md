@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vek08/LC/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/vek08/LC/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/vek08/LC/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/vek08/LC/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vek08/LC/tree/master/0525-contiguous-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/vek08/LC/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/vek08/LC/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vek08/LC/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/vek08/LC/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/vek08/LC/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/vek08/LC/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vek08/LC/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/vek08/LC/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vek08/LC/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
