@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vek08/LC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vek08/LC/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/vek08/LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/vek08/LC/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vek08/LC/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vek08/LC/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/vek08/LC/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/vek08/LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/vek08/LC/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vek08/LC/tree/master/0678-valid-parenthesis-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vek08/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vek08/LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vek08/LC/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vek08/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vek08/LC/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
