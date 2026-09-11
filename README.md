@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vek08/LC/tree/master/0225-implement-stack-using-queues) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vek08/LC/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/vek08/LC/tree/master/0707-design-linked-list) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vek08/LC/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vek08/LC/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/vek08/LC/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vek08/LC/tree/master/0678-valid-parenthesis-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vek08/LC/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
