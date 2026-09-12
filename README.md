@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vek08/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vek08/LC/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/vek08/LC/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vek08/LC/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/vek08/LC/tree/master/0412-fizz-buzz) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vek08/LC/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vek08/LC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vek08/LC/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vek08/LC/tree/master/0234-palindrome-linked-list) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vek08/LC/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vek08/LC/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
