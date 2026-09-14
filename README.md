@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vek08/LC/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/vek08/LC/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/vek08/LC/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vek08/LC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/vek08/LC/tree/master/2235-add-two-integers) |
@@ -384,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vek08/LC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vek08/LC/tree/master/0232-implement-queue-using-stacks) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vek08/LC/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
