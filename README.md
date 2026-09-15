@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vek08/LC/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vek08/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vek08/LC/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/vek08/LC/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vek08/LC/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vek08/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vek08/LC/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vek08/LC/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vek08/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vek08/LC/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vek08/LC/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
@@ -396,4 +398,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vek08/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vek08/LC/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
