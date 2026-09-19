@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vek08/LC/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vek08/LC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/vek08/LC/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/vek08/LC/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vek08/LC/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vek08/LC/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/vek08/LC/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Monotonic Stack
 |  |
 | ------- |
