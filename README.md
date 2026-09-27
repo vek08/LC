@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vek08/LC/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/vek08/LC/tree/master/1004-max-consecutive-ones-iii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vek08/LC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vek08/LC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vek08/LC/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/vek08/LC/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vek08/LC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vek08/LC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vek08/LC/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/vek08/LC/tree/master/2235-add-two-integers) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vek08/LC/tree/master/0836-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vek08/LC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vek08/LC/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Monotonic Stack
 |  |
