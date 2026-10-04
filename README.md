@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1004-max-consecutive-ones-iii](https://github.com/vek08/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vek08/LC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vek08/LC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1395-count-number-of-teams](https://github.com/vek08/LC/tree/master/1395-count-number-of-teams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vek08/LC/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0435-non-overlapping-intervals](https://github.com/vek08/LC/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/vek08/LC/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/vek08/LC/tree/master/0877-stone-game) |
+| [1395-count-number-of-teams](https://github.com/vek08/LC/tree/master/1395-count-number-of-teams) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vek08/LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -495,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vek08/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/vek08/LC/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/vek08/LC/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
