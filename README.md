@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0584-find-customer-referee](https://github.com/vek08/LC/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/vek08/LC/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/vek08/LC/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vek08/LC/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/vek08/LC/tree/master/1683-invalid-tweets) |
 ## DP on Trees
 |  |
