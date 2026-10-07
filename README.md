@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0145-binary-tree-postorder-traversal](https://github.com/vek08/LC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/vek08/LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vek08/LC/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0145-binary-tree-postorder-traversal](https://github.com/vek08/LC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/vek08/LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vek08/LC/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -511,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/vek08/LC/tree/master/1395-count-number-of-teams) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/vek08/LC/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
