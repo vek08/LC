@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0022-generate-parentheses](https://github.com/vek08/LC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vek08/LC/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vek08/LC/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/vek08/LC/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/vek08/LC/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/vek08/LC/tree/master/0424-longest-repeating-character-replacement) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0144-binary-tree-preorder-traversal](https://github.com/vek08/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vek08/LC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vek08/LC/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0022-generate-parentheses](https://github.com/vek08/LC/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/vek08/LC/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 ## Quicksort
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0144-binary-tree-preorder-traversal](https://github.com/vek08/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vek08/LC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vek08/LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vek08/LC/tree/master/2236-root-equals-sum-of-children) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0144-binary-tree-preorder-traversal](https://github.com/vek08/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vek08/LC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vek08/LC/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vek08/LC/tree/master/2236-root-equals-sum-of-children) |
