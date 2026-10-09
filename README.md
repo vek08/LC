@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0856-score-of-parentheses](https://github.com/vek08/LC/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vek08/LC/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vek08/LC/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vek08/LC/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vek08/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/vek08/LC/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/vek08/LC/tree/master/0860-lemonade-change) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vek08/LC/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0856-score-of-parentheses](https://github.com/vek08/LC/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vek08/LC/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vek08/LC/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vek08/LC/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vek08/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0856-score-of-parentheses](https://github.com/vek08/LC/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vek08/LC/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vek08/LC/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vek08/LC/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vek08/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
