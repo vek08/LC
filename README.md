@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0175-combine-two-tables](https://github.com/vek08/LC/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/vek08/LC/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vek08/LC/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/vek08/LC/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/vek08/LC/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/vek08/LC/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/vek08/LC/tree/master/1148-article-views-i) |
