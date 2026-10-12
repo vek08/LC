@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2089-find-target-indices-after-sorting-array](https://github.com/vek08/LC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vek08/LC/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vek08/LC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2923-find-champion-i](https://github.com/vek08/LC/tree/master/2923-find-champion-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vek08/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3033-modify-the-matrix](https://github.com/vek08/LC/tree/master/3033-modify-the-matrix) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vek08/LC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vek08/LC/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vek08/LC/tree/master/3483-unique-3-digit-even-numbers) |
 ## Interactive
