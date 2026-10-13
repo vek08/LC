@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vek08/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vek08/LC/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/vek08/LC/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/vek08/LC/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/vek08/LC/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vek08/LC/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vek08/LC/tree/master/0704-binary-search) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0078-subsets](https://github.com/vek08/LC/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vek08/LC/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vek08/LC/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/vek08/LC/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/vek08/LC/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/vek08/LC/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vek08/LC/tree/master/0693-binary-number-with-alternating-bits) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0124-binary-tree-maximum-path-sum](https://github.com/vek08/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vek08/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vek08/LC/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/vek08/LC/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0124-binary-tree-maximum-path-sum](https://github.com/vek08/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vek08/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vek08/LC/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/vek08/LC/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
