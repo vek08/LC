@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0560-subarray-sum-equals-k](https://github.com/vek08/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/vek08/LC/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/vek08/LC/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vek08/LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vek08/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vek08/LC/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0455-assign-cookies](https://github.com/vek08/LC/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vek08/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/vek08/LC/tree/master/0922-sort-array-by-parity-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vek08/LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vek08/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vek08/LC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2679-sum-in-a-matrix](https://github.com/vek08/LC/tree/master/2679-sum-in-a-matrix) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vek08/LC/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vek08/LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vek08/LC/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vek08/LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vek08/LC/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0257-binary-tree-paths](https://github.com/vek08/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vek08/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vek08/LC/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vek08/LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vek08/LC/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0102-binary-tree-level-order-traversal](https://github.com/vek08/LC/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vek08/LC/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vek08/LC/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vek08/LC/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
