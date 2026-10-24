@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vek08/LC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vek08/LC/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/vek08/LC/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/vek08/LC/tree/master/2409-count-days-spent-together) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vek08/LC/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vek08/LC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vek08/LC/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vek08/LC/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vek08/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/vek08/LC/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vek08/LC/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vek08/LC/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vek08/LC/tree/master/3090-maximum-length-substring-with-two-occurrences) |
